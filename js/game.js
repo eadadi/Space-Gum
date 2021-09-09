@@ -213,7 +213,7 @@ setInterval(shootI_reload,1000);
 
 function shotII_reload(){
 	if(_spaceship.shotII_range<_spaceship.shotII_max_range)
-		_spaceship.shotII_range += 20;
+		_spaceship.shotII_range += 100;
 }
 setInterval(shotII_reload,1000);
 

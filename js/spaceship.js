@@ -38,8 +38,8 @@ class Spaceship {
 		this.spread_amount = 0;
 		this.shotI_bank = 3;
 		this.shotI_capacity = 3;
-		this.shotII_range = 100;
-		this.shotII_max_range = 500;
+		this.shotII_range = 200;
+		this.shotII_max_range = 900;
 
 		this.mobile_flag = 0;
 
